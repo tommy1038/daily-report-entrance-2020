@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "896d9c093c82e0b20e4fa0442fb7607f",
+    "revision": "7affede8fa1932eeea52a748abaae7af",
     "url": "/daily-report-entrance-2020/index.html"
   },
   {
-    "revision": "c78df701aa3f571d09dc",
+    "revision": "76e87fd4ea6dd3f5c642",
     "url": "/daily-report-entrance-2020/static/css/main.25c83324.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/daily-report-entrance-2020/static/js/2.98324ec4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c78df701aa3f571d09dc",
-    "url": "/daily-report-entrance-2020/static/js/main.deefac8f.chunk.js"
+    "revision": "76e87fd4ea6dd3f5c642",
+    "url": "/daily-report-entrance-2020/static/js/main.cb992c48.chunk.js"
   },
   {
     "revision": "df90e4952b48aaac0887",
