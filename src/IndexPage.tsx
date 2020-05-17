@@ -107,7 +107,11 @@ const IndexPage: React.FC = () => {
           </li>
         </ul>
          
-        <a href="/" onClick={handleSubmit} className="btn btn-primary">
+        <a
+          href="/daily-report-entrance-2020/"
+          onClick={handleSubmit}
+          className="btn btn-primary"
+        >
           入力内容の保存
         </a>
       </form>
