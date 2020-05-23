@@ -67,6 +67,15 @@ const IndexPage: React.FC = () => {
     setUrl(generate_url);
   }, [myAccount.employee_number, myAccount.firstname, myAccount.lastname]);
 
+  const renderRedirect = () => {
+    const parsed = queryString.parse(window.location.search);
+    if (parsed.redirect === "yes") {
+      window.location.href = url.href;
+    }
+  };
+
+  renderRedirect();
+
   return (
     <>
       <h2>daily report entrance 2020</h2>
