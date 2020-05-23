@@ -124,6 +124,11 @@ const IndexPage: React.FC = () => {
           入力内容の保存
         </a>
       </form>
+      <h3>
+        こちらのURLをブックマークすると、自動でフォームにリダイレクトします。
+        <br />
+        https://noirtomiyama.github.io/daily-report-entrance-2020/?redirect=yes
+      </h3>
     </>
   );
 };
